@@ -1,8 +1,9 @@
-Membuat flowchart pemrograman dengan kasus berikut :
+Membuat flowchart dan program dengan kasus berikut :
 
 Padi bisa di panen jika memenuhi, persyaratan berikut :
 
-1.  Masa panen harus minimal 3 bulan  
-2.  Warna padi sudah kuning
+1.  Masa panen harus minimal 3 bulan 
+2.  Warna padi sudah kuning 
 
-Jika memenuhi poin-poin diatas, maka padi bisa dipanen
+Jika memenuhi poin-poin diatas, maka tampilkan "Padi siap dipanen"
+jika tidak, tampilkan "Padi belum siap dipanen"
